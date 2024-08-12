@@ -1,0 +1,20 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex b9bc392..53d3e19 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -11,13 +11,9 @@[m
+       this is fresh main in charge [m
+       hello[m
+       i am making my first charge[m
+[31m-    </main>[m
+ [m
+[31m-    <div> wowowowowowowoowowow  zzzz[m
+[31m-      wowowowowowowoowowow  zzzz[m
+[31m-      wowowowowowowoowowow  zzzz[m
+[31m-      wowowowowowowoowowow  zzzz[m
+[31m-    </div>[m
+[32m+[m[32m      i am yong2 woo  hello  olympic  wooooooooooooo.[m
+[32m+[m[32m    </main>[m
+     <footer></footer>[m
+   </template>[m
+   [m
